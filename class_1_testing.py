@@ -7,5 +7,9 @@
 
 print("Hello, World!!!")
 
+x=20
+
+print(x*4)
+
 print("No more math.")
 
